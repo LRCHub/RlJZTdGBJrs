@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "突破口",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-05T04:10:04.427334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "突破口",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_突破口_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SUPER BEAVER 「突破口」 MV",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/02_SUPER_BEAVER_「突破口」_MV_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "突破口",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_突破口_SUPER_BEAVER.txt"
+    }
+  ]
+}
